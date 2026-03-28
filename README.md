@@ -1,6 +1,6 @@
 # SoloSafe — Solo Traveler Safety Network
 
-🔗 Live Demo: 
+🔗 Live Demo: https://ceecee-ferdy.github.io/solosafe/
 
 ## Overview
 SoloSafe is a web application designed to help solo travelers stay safe while exploring. The platform offers comprehensive safety features such as smart reminders, emergency alerts, SOS buttons and trip sharing.

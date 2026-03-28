@@ -3,15 +3,15 @@
 🔗 Live Demo: 
 
 ## Overview
-SoloSafe is a web application designed to help solo travelers stay safe while exploring. The platform offers comprehensive safety features such as smart reminders, emergency alerts, SOS buttons, and trip sharing.
+SoloSafe is a web application designed to help solo travelers stay safe while exploring. The platform offers comprehensive safety features such as smart reminders, emergency alerts, SOS buttons and trip sharing.
 
 ## Features
 - **Smart Reminders** — Automatic check-in reminders via email  
 - **Emergency Contact** — Notify multiple trusted contacts instantly  
 - **SOS Button** — Sends your location immediately in case of emergency  
-- **Trip Sharing** — Secure, view-only link for emergency contacts  
+- **Trip Sharing** — Secure view-only link for emergency contacts  
 - **Flexible Schedule** — Set check-in frequency for your trip  
-- **Alert History** — Track all alerts, check-ins, and safety events  
+- **Alert History** — Track all alerts, check-ins and safety events  
 
 ## My Contribution
 - Featured contributor in the project  
@@ -26,4 +26,3 @@ SoloSafe is a web application designed to help solo travelers stay safe while ex
 
 ## Author
 - GitHub: https://github.com/Ceecee-ferdy  
-- Portfolio: https://ceecee-ferdy.github.io/
